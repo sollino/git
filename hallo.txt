@@ -1,3 +1,4 @@
-Print("hello,world")
-print("hello")
-print("hallo gays")
+
+Print("hello,world;")
+print("hello;")
+print("hallo gays;")
