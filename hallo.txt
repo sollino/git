@@ -1,2 +1,4 @@
+
 Print("hello,world;")
-зкшие("hello;")
+print("hello;")
+print("hallo gays;")
